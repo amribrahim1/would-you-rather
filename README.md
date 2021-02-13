@@ -1,5 +1,7 @@
 # Would-You-Rather Project
 
+### https://amribrahim1.github.io/would-you-rather
+
 This is a Would-You-Rather game app. A user is asked a question in the form: “Would you rather [option A] or [option B] ?
 
 The main page displays a list of Answerd and Unanswerd question.
